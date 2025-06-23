@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Gabriel Suarez"
-  pronouns         : # example: "she/her" he/him/his
+  pronouns         : "he/him/his" # example: "she/her" 
   bio              : "Physics, math, all of it. Number one is original ideas!"
   location         : "Syracuse, New York"
   employer         : "Syracuse University"
